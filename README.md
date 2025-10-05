@@ -1,25 +1,4 @@
 
-## 🚀 **Quick Setup Commands**
-
-```bash
-# Navigate to your repository
-cd /home/prak05/GITHUB/Python_intern_virtunexa
-
-# Create organized structure
-mkdir -p projects/{mini_project,calculator_game,clocking_system,calculation_history}
-mkdir -p docs assets
-
-# Move existing notebooks to appropriate folders
-mv "Mini_Project (1).ipynb" projects/mini_project/
-mv "Calculator_adventure_game.ipynb" projects/calculator_game/
-mv "Calculator_adventure_game (1).ipynb" projects/calculator_game/backup_version.ipynb
-mv "clocking.ipynb" projects/clocking_system/
-mv "calculation history.ipynb" projects/calculation_history/
-```
-
-## 📄 **Dynamic README.md**
-
-```markdown
 <div align="center">
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,100:4ECDC4&height=300&section=header&text=🐍%20PYTHON%20VIRTUNEXA&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Mini%20Python%20Applications%20Portfolio&descAlignY=55&descSize=20)
